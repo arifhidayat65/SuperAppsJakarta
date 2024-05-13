@@ -1,0 +1,41 @@
+name: jakone_pay_case_study
+description: "JakOne Pay Case Study for Bank DKI."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+  flutter_svg: ^2.0.10+1
+  smooth_page_indicator: ^1.1.0
+  gradient_icon: ^2.0.9
+  gradient_borders: ^1.0.0
+  card_swiper: ^3.0.1
+  velocity_x: ^4.1.2
+  getwidget:
+  flutter_localizations:
+    sdk: flutter
+  intl:
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/event/
+    - assets/menu/
+  generate: true
