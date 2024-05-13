@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:jakone_pay_case_study/common/common.dart';
 import 'package:jakone_pay_case_study/screen/home_screen/home_screen.dart';
-import 'package:jakone_pay_case_study/screen/profile_screen/profile_screen.dart';
+import 'package:jakone_pay_case_study/screen/v_profile/profile_screen.dart';
 
 class BottomNavbar extends StatefulWidget {
   const BottomNavbar({super.key});

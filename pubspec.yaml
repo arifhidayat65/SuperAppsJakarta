@@ -12,8 +12,14 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
-  google_fonts: ^6.2.1
-
+  google_fonts: ^6.1.0
+  auto_route: ^7.8.4
+  badges: ^3.1.2
+  carousel_slider: ^4.2.1
+  dartz: ^0.10.1
+  data_channel: ^2.0.0+1
+  dotted_line: ^3.2.2
+  expandable_page_view: ^1.0.17
   flutter_svg: ^2.0.10+1
   smooth_page_indicator: ^1.1.0
   gradient_icon: ^2.0.9
@@ -25,12 +31,24 @@ dependencies:
     sdk: flutter
   intl:
   provider: ^6.1.2
+  freezed_annotation: ^2.4.1
+  get_it: ^7.6.6
+  injectable: ^2.3.2
+  json_annotation: ^4.8.1
+  percent_indicator: ^4.2.3
+  shimmer: ^3.0.0
+  timelines: ^0.1.0
 
 dev_dependencies:
+  auto_route_generator: ^7.3.2
+  build_runner: ^2.4.8
+  flutter_gen_runner: ^5.4.0
+  flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-
-  flutter_lints: ^3.0.0
+  freezed: ^2.4.6
+  injectable_generator: ^2.4.1
+  json_serializable: ^6.7.1
 
 flutter:
   uses-material-design: true

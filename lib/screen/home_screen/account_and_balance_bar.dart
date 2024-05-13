@@ -76,7 +76,7 @@ class AccountAndBalance extends SliverPersistentHeaderDelegate {
                                         style: AppFonts.descriptionSmall,
                                       ),
                                       Text(
-                                        "Rp 500.000.000",
+                                        "Rp 10.000",
                                         style: AppFonts.descriptionSmall
                                             .copyWith(
                                                 fontWeight: FontWeight.bold,

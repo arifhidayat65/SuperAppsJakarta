@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:jakone_pay_case_study/common/common.dart';
 import 'package:jakone_pay_case_study/controller/localizations_provider.dart';
-import 'package:jakone_pay_case_study/screen/splash_screen/splash_screen.dart';
+import 'package:jakone_pay_case_study/screen/splash_view/splash_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {

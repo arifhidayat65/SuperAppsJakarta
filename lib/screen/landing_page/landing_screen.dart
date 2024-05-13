@@ -56,14 +56,19 @@ class _LandingScreenState extends State<LandingScreen> {
         description: AppLocalizations.of(context)!.monasDesc,
       ),
       DestinationModel(
-        image: 'assets/images/dufan.jpg',
-        title: AppLocalizations.of(context)!.ancolTitle,
+        image: 'assets/images/gbk.jpg',
+        title: AppLocalizations.of(context)!.gbkTitle,
         description: AppLocalizations.of(context)!.ancolDesc,
       ),
       DestinationModel(
-        image: 'assets/images/ragunan.jpg',
-        title: AppLocalizations.of(context)!.ragunanTitle,
-        description: AppLocalizations.of(context)!.ragunanDesc,
+        image: 'assets/images/kotatua.jpg',
+        title: AppLocalizations.of(context)!.gbkTitle,
+        description: AppLocalizations.of(context)!.ancolDesc,
+      ),
+      DestinationModel(
+        image: 'assets/images/tourist.jpg',
+        title: AppLocalizations.of(context)!.gbkTitle,
+        description: AppLocalizations.of(context)!.ancolDesc,
       ),
     ];
     return Scaffold(
@@ -130,6 +135,7 @@ class _LandingScreenState extends State<LandingScreen> {
                             ),
                     ),
                   ),
+                  
                 ),
               ),
             ],

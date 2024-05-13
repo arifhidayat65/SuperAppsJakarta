@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:jakone_pay_case_study/common/common.dart';
-import 'package:jakone_pay_case_study/screen/landing_screen/landing_screen.dart';
+import 'package:jakone_pay_case_study/screen/landing_page/landing_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
