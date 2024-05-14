@@ -5,9 +5,10 @@ final List<String> imageUrls = [
 
 final List<Map<String, dynamic>> places = [
   {"image": "assets/images/monas.jpg", "title": "Monumen Nasional"},
-  // {"image": "assets/images/ancol.jpg", "title": "Ancol Area"},
   {"image": "assets/images/kotatua.jpg", "title": "Museum Kota TUa"},
   {"image": "assets/images/gbk.jpg", "title": "Gelora BUng Karno"},
+  {"image": "assets/images/tourist.jpg", "title": "Wayang Tourist"},
+
 ];
 
 final List<Map<String, dynamic>> events = [

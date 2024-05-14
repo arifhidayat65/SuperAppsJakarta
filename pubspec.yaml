@@ -56,4 +56,6 @@ flutter:
     - assets/images/
     - assets/images/event/
     - assets/menu/
+    - assets/json/
+
   generate: true
